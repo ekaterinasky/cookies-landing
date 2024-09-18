@@ -317,15 +317,15 @@ body {
 .line1 {
     position: absolute;
     z-index: -1;
-    top: 0;
-    left: calc(100% - 960px);
+    top: -30px;
+    left: calc(100% - 1020px);
 }
 
 .line2 {
     position: absolute;
     z-index: -1;
     top: -40px;
-    left: 0;
+    left: -50px;
 }
 
 .line3 {
